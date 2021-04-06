@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+<sy_payment_terms recordmode="UPDATE">
+<plant>001</plant>
+<payment_terms>1%-10days</payment_terms>
+<description>1% discount if paid in 10 days</description>
+<discount_pct>10</discount_pct>
+<discount_days>10</discount_days>
+<net_days>30</net_days>
+</sy_payment_terms>
+<sy_payment_terms recordmode="UPDATE">
+<plant>100</plant>
+<payment_terms>1%-10days</payment_terms>
+<description>1% discount if paid in 10 days</description>
+<discount_pct>10</discount_pct>
+<discount_days>10</discount_days>
+<net_days>30</net_days>
+</sy_payment_terms>
+<sy_payment_terms recordmode="UPDATE">
+<plant>SON</plant>
+<payment_terms>1%-10days</payment_terms>
+<description>1% discount if paid in 10 days</description>
+<discount_pct>10</discount_pct>
+<discount_days>10</discount_days>
+<net_days>30</net_days>
+</sy_payment_terms>
+</Root>

@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+<po_supplier>
+	<plant>001</plant>
+	<supplier>V00020</supplier>
+	<name>Buxton</name>
+	<query_city>City</query_city>
+	<query_state>County</query_state>
+	<query_postal_code>S9 1XH</query_postal_code>
+	<query_country>GB</query_country>
+	<phone />
+	<fax>01615522252</fax>
+	<email_address>adamwahid@test.com</email_address>
+	<via_manual_fax_flag>true</via_manual_fax_flag>
+	<via_phone_flag>false</via_phone_flag>
+	<via_mail_flag>true</via_mail_flag>
+	<via_edi_flag>false</via_edi_flag>
+	<ship_via>VRL</ship_via>
+	<tax />
+	<freight>PPD &amp; ADD</freight>
+	<payment_terms>Net 30</payment_terms>
+	<type />
+	<fob />
+	<currency>USD</currency>
+	<ship_point />
+	<dunns />
+	<minimum_order>0</minimum_order>
+	<active_flag>true</active_flag>
+	<credit_limit>0</credit_limit>
+	<id_1099 />
+	<rating />
+	<customer_number />
+	<discount_method />
+	<potential_flag>false</potential_flag>
+	<two_way_match_flag>false</two_way_match_flag>
+	<receiver_id_qualifier />
+	<receiver_id />
+	<sender_id_qualifier />
+	<sender_id />
+	<segment_terminator />
+	<element_separator />
+	<subelement_separator />
+	<communication_phone />
+	<password_1 />
+	<password_2 />
+	<edi_other_1 />
+	<edi_other_2 />
+	<edi_other_3 />
+	<edi_other_4 />
+	<edi_other_5 />
+	<edi_test_flag>false</edi_test_flag>
+	<rfq_via_manual_fax_flag>false</rfq_via_manual_fax_flag>
+	<rfq_via_electronic_fax_flag>false</rfq_via_electronic_fax_flag>
+	<rfq_via_phone_flag>false</rfq_via_phone_flag>
+	<rfq_via_mail_flag>false</rfq_via_mail_flag>
+	<rfq_via_edi_flag>false</rfq_via_edi_flag>
+	<auto_issue_flag>false</auto_issue_flag>
+	<via_email_flag>false</via_email_flag>
+	<rfq_via_email_flag>false</rfq_via_email_flag>
+	<external_supplier />
+	<po_supplier_comments>
+		<plant>001</plant>
+		<supplier>V00020</supplier>
+		<comments>VENDOR COMMENTS 1 VENDOR COMMENTS 2 VENDOR COMMENTS 3 !"£12978317-123!</comments>
+	</po_supplier_comments>
+	<po_supplier_contact>
+		<plant>001</plant>
+		<supplier>V00020</supplier>
+		<name>Buxton</name>
+		<title />
+		<phone />
+		<fax>01615522252</fax>
+		<email_address>adamwahid@test.com</email_address>
+		<notes />
+		<primary_flag>false</primary_flag>
+	</po_supplier_contact>
+	<po_supplier_contact>
+		<plant>001</plant>
+		<supplier>V00020</supplier>
+		<name>Adam Wahid</name>
+		<title />
+		<phone />
+		<fax>01615522252</fax>
+		<email_address>adamwahid@test.com</email_address>
+		<notes />
+		<primary_flag>true</primary_flag>
+	</po_supplier_contact>
+	<po_supplier_contact>
+		<plant>001</plant>
+		<supplier>V00020</supplier>
+		<name>John Doe</name>
+		<title />
+		<phone />
+		<fax>01615522252</fax>
+		<email_address>adamwahid@test.com</email_address>
+		<notes />
+		<primary_flag>false</primary_flag>
+	</po_supplier_contact>
+	<po_supplier_addresses>
+		<plant>001</plant>
+		<supplier>V00020</supplier>
+		<address_code>001</address_code>
+		<address>10 Europa View
+Sheffeld Business Park
+Sheffield
+South Yorkshire
+GB
+S9 1XH</address>
+		<mailing_address_flag>true</mailing_address_flag>
+		<remittance_address_flag>false</remittance_address_flag>
+		<shipping_address_flag>false</shipping_address_flag>
+		<default_mailing_address_flag>true</default_mailing_address_flag>
+		<default_remit_address_flag>false</default_remit_address_flag>
+		<default_shipping_address_flag>false</default_shipping_address_flag>
+	</po_supplier_addresses>
+</po_supplier>
+<po_supplier>
+	<plant>100</plant>
+	<supplier>V00020</supplier>
+	<name>Buxton</name>
+	<query_city>City</query_city>
+	<query_state>County</query_state>
+	<query_postal_code>S9 1XH</query_postal_code>
+	<query_country>GB</query_country>
+	<phone />
+	<fax>01615522252</fax>
+	<email_address>adamwahid@test.com</email_address>
+	<via_manual_fax_flag>true</via_manual_fax_flag>
+	<via_phone_flag>false</via_phone_flag>
+	<via_mail_flag>true</via_mail_flag>
+	<via_edi_flag>false</via_edi_flag>
+	<ship_via>VRL</ship_via>
+	<tax />
+	<freight>PPD &amp; ADD</freight>
+	<payment_terms>Net 30</payment_terms>
+	<type />
+	<fob />
+	<currency>USD</currency>
+	<ship_point />
+	<dunns />
+	<minimum_order>0</minimum_order>
+	<active_flag>true</active_flag>
+	<credit_limit>0</credit_limit>
+	<id_1099 />
+	<rating />
+	<customer_number />
+	<discount_method />
+	<potential_flag>false</potential_flag>
+	<two_way_match_flag>false</two_way_match_flag>
+	<receiver_id_qualifier />
+	<receiver_id />
+	<sender_id_qualifier />
+	<sender_id />
+	<segment_terminator />
+	<element_separator />
+	<subelement_separator />
+	<communication_phone />
+	<password_1 />
+	<password_2 />
+	<edi_other_1 />
+	<edi_other_2 />
+	<edi_other_3 />
+	<edi_other_4 />
+	<edi_other_5 />
+	<edi_test_flag>false</edi_test_flag>
+	<rfq_via_manual_fax_flag>false</rfq_via_manual_fax_flag>
+	<rfq_via_electronic_fax_flag>false</rfq_via_electronic_fax_flag>
+	<rfq_via_phone_flag>false</rfq_via_phone_flag>
+	<rfq_via_mail_flag>false</rfq_via_mail_flag>
+	<rfq_via_edi_flag>false</rfq_via_edi_flag>
+	<auto_issue_flag>false</auto_issue_flag>
+	<via_email_flag>false</via_email_flag>
+	<rfq_via_email_flag>false</rfq_via_email_flag>
+	<external_supplier />
+	<po_supplier_comments>
+		<plant>100</plant>
+		<supplier>V00020</supplier>
+		<comments>VENDOR COMMENTS 1 VENDOR COMMENTS 2 VENDOR COMMENTS 3 !"£12978317-123!</comments>
+	</po_supplier_comments>
+	<po_supplier_contact>
+		<plant>100</plant>
+		<supplier>V00020</supplier>
+		<name>Buxton</name>
+		<title />
+		<phone />
+		<fax>01615522252</fax>
+		<email_address>adamwahid@test.com</email_address>
+		<notes />
+		<primary_flag>false</primary_flag>
+	</po_supplier_contact>
+	<po_supplier_contact>
+		<plant>100</plant>
+		<supplier>V00020</supplier>
+		<name>Adam Wahid</name>
+		<title />
+		<phone />
+		<fax>01615522252</fax>
+		<email_address>adamwahid@test.com</email_address>
+		<notes />
+		<primary_flag>true</primary_flag>
+	</po_supplier_contact>
+	<po_supplier_contact>
+		<plant>100</plant>
+		<supplier>V00020</supplier>
+		<name>John Doe</name>
+		<title />
+		<phone />
+		<fax>01615522252</fax>
+		<email_address>adamwahid@test.com</email_address>
+		<notes />
+		<primary_flag>false</primary_flag>
+	</po_supplier_contact>
+	<po_supplier_addresses>
+		<plant>100</plant>
+		<supplier>V00020</supplier>
+		<address_code>001</address_code>
+		<address>10 Europa View
+Sheffeld Business Park
+Sheffield
+South Yorkshire
+GB
+S9 1XH</address>
+		<mailing_address_flag>true</mailing_address_flag>
+		<remittance_address_flag>false</remittance_address_flag>
+		<shipping_address_flag>false</shipping_address_flag>
+		<default_mailing_address_flag>true</default_mailing_address_flag>
+		<default_remit_address_flag>false</default_remit_address_flag>
+		<default_shipping_address_flag>false</default_shipping_address_flag>
+	</po_supplier_addresses>
+</po_supplier>
+<po_supplier>
+	<plant>SON</plant>
+	<supplier>V00020</supplier>
+	<name>Buxton</name>
+	<query_city>City</query_city>
+	<query_state>County</query_state>
+	<query_postal_code>S9 1XH</query_postal_code>
+	<query_country>GB</query_country>
+	<phone />
+	<fax>01615522252</fax>
+	<email_address>adamwahid@test.com</email_address>
+	<via_manual_fax_flag>true</via_manual_fax_flag>
+	<via_phone_flag>false</via_phone_flag>
+	<via_mail_flag>true</via_mail_flag>
+	<via_edi_flag>false</via_edi_flag>
+	<ship_via>2D</ship_via>
+	<tax />
+	<freight>PPD &amp; ADD</freight>
+	<payment_terms>Net 30</payment_terms>
+	<type />
+	<fob />
+	<currency>USD</currency>
+	<ship_point />
+	<dunns />
+	<minimum_order>0</minimum_order>
+	<active_flag>true</active_flag>
+	<credit_limit>0</credit_limit>
+	<id_1099 />
+	<rating />
+	<customer_number />
+	<discount_method />
+	<potential_flag>false</potential_flag>
+	<two_way_match_flag>false</two_way_match_flag>
+	<receiver_id_qualifier />
+	<receiver_id />
+	<sender_id_qualifier />
+	<sender_id />
+	<segment_terminator />
+	<element_separator />
+	<subelement_separator />
+	<communication_phone />
+	<password_1 />
+	<password_2 />
+	<edi_other_1 />
+	<edi_other_2 />
+	<edi_other_3 />
+	<edi_other_4 />
+	<edi_other_5 />
+	<edi_test_flag>false</edi_test_flag>
+	<rfq_via_manual_fax_flag>false</rfq_via_manual_fax_flag>
+	<rfq_via_electronic_fax_flag>false</rfq_via_electronic_fax_flag>
+	<rfq_via_phone_flag>false</rfq_via_phone_flag>
+	<rfq_via_mail_flag>false</rfq_via_mail_flag>
+	<rfq_via_edi_flag>false</rfq_via_edi_flag>
+	<auto_issue_flag>false</auto_issue_flag>
+	<via_email_flag>false</via_email_flag>
+	<rfq_via_email_flag>false</rfq_via_email_flag>
+	<external_supplier />
+	<po_supplier_comments>
+		<plant>SON</plant>
+		<supplier>V00020</supplier>
+		<comments>VENDOR COMMENTS 1 VENDOR COMMENTS 2 VENDOR COMMENTS 3 !"£12978317-123!</comments>
+	</po_supplier_comments>
+	<po_supplier_contact>
+		<plant>SON</plant>
+		<supplier>V00020</supplier>
+		<name>Buxton</name>
+		<title />
+		<phone />
+		<fax>01615522252</fax>
+		<email_address>adamwahid@test.com</email_address>
+		<notes />
+		<primary_flag>false</primary_flag>
+	</po_supplier_contact>
+	<po_supplier_contact>
+		<plant>SON</plant>
+		<supplier>V00020</supplier>
+		<name>Adam Wahid</name>
+		<title />
+		<phone />
+		<fax>01615522252</fax>
+		<email_address>adamwahid@test.com</email_address>
+		<notes />
+		<primary_flag>true</primary_flag>
+	</po_supplier_contact>
+	<po_supplier_contact>
+		<plant>SON</plant>
+		<supplier>V00020</supplier>
+		<name>John Doe</name>
+		<title />
+		<phone />
+		<fax>01615522252</fax>
+		<email_address>adamwahid@test.com</email_address>
+		<notes />
+		<primary_flag>false</primary_flag>
+	</po_supplier_contact>
+	<po_supplier_addresses>
+		<plant>SON</plant>
+		<supplier>V00020</supplier>
+		<address_code>001</address_code>
+		<address>10 Europa View
+Sheffeld Business Park
+Sheffield
+South Yorkshire
+GB
+S9 1XH</address>
+		<mailing_address_flag>true</mailing_address_flag>
+		<remittance_address_flag>false</remittance_address_flag>
+		<shipping_address_flag>false</shipping_address_flag>
+		<default_mailing_address_flag>true</default_mailing_address_flag>
+		<default_remit_address_flag>false</default_remit_address_flag>
+		<default_shipping_address_flag>false</default_shipping_address_flag>
+	</po_supplier_addresses>
+</po_supplier>
+</Root>

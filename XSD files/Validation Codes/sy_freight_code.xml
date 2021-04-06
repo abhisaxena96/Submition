@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+<sy_freight_code recordmode="INSERT">
+<plant>001</plant>
+<freight>03</freight>
+<description>Pickup Will Call</description>
+<allow_charges_flag>1</allow_charges_flag>
+<allow_taxes_flag>0</allow_taxes_flag>
+<active_flag>1</active_flag>
+</sy_freight_code>
+<sy_freight_code recordmode="INSERT">
+<plant>100</plant>
+<freight>03</freight>
+<description>Pickup Will Call</description>
+<allow_charges_flag>1</allow_charges_flag>
+<allow_taxes_flag>0</allow_taxes_flag>
+<active_flag>1</active_flag>
+</sy_freight_code>
+<sy_freight_code recordmode="INSERT">
+<plant>SON</plant>
+<freight>03</freight>
+<description>Pickup Will Call</description>
+<allow_charges_flag>1</allow_charges_flag>
+<allow_taxes_flag>0</allow_taxes_flag>
+<active_flag>1</active_flag>
+</sy_freight_code>
+</Root>

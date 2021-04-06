@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<sy_code_25>
+		<plant>001</plant>
+		<field>Project</field>
+		<code>11078</code>
+		<description>Grande Cache Coal JC Imports</description>
+		<active_flag>1</active_flag>
+		<date_closed>2020-04-01</date_closed >
+		<budget_amount>0</budget_amount>
+	</sy_code_25>
+	<sy_code_25>
+		<plant>100</plant>
+		<field>Project</field>
+		<code>11078</code>
+		<description>Grande Cache Coal JC Imports</description>
+		<active_flag>1</active_flag>
+		<date_closed>2020-04-01</date_closed >
+		<budget_amount>0</budget_amount>
+	</sy_code_25>
+	<sy_code_25>
+		<plant>SON</plant>
+		<field>Project</field>
+		<code>11078</code>
+		<description>Grande Cache Coal JC Imports</description>
+		<active_flag>1</active_flag>
+		<date_closed>2020-04-01</date_closed >
+		<budget_amount>0</budget_amount>
+	</sy_code_25>
+</Root>

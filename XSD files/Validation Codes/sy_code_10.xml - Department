@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+<sy_code_10>
+<plant>001</plant>
+<field>Department</field>
+<code>Maint</code>
+<description>Maintenance Dept</description>
+</sy_code_10>
+<sy_code_10>
+<plant>100</plant>
+<field>Department</field>
+<code>Maint</code>
+<description>Maintenance Dept</description>
+</sy_code_10>
+<sy_code_10>
+<plant>SON</plant>
+<field>Department</field>
+<code>Maint</code>
+<description>Maintenance Dept</description>
+</sy_code_10>
+</Root>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="po_supplier">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="plant" type="xs:string" />
+              <xs:element name="supplier" type="xs:string" />
+              <xs:element name="name" type="xs:string" />
+              <xs:element name="query_city" type="xs:string" />
+              <xs:element name="query_state" type="xs:string" />
+              <xs:element name="query_postal_code" type="xs:string" />
+              <xs:element name="query_country" type="xs:string" />
+              <xs:element name="phone" />
+              <xs:element name="fax" type="xs:unsignedInt" />
+              <xs:element name="email_address" type="xs:string" />
+              <xs:element name="via_manual_fax_flag" type="xs:boolean" />
+              <xs:element name="via_phone_flag" type="xs:boolean" />
+              <xs:element name="via_mail_flag" type="xs:boolean" />
+              <xs:element name="via_edi_flag" type="xs:boolean" />
+              <xs:element name="ship_via" type="xs:string" />
+              <xs:element name="tax" />
+              <xs:element name="freight" type="xs:string" />
+              <xs:element name="payment_terms" type="xs:string" />
+              <xs:element name="type" />
+              <xs:element name="fob" />
+              <xs:element name="currency" type="xs:string" />
+              <xs:element name="ship_point" />
+              <xs:element name="dunns" />
+              <xs:element name="minimum_order" type="xs:unsignedByte" />
+              <xs:element name="active_flag" type="xs:boolean" />
+              <xs:element name="credit_limit" type="xs:unsignedByte" />
+              <xs:element name="id_1099" />
+              <xs:element name="rating" />
+              <xs:element name="customer_number" />
+              <xs:element name="discount_method" />
+              <xs:element name="potential_flag" type="xs:boolean" />
+              <xs:element name="two_way_match_flag" type="xs:boolean" />
+              <xs:element name="receiver_id_qualifier" />
+              <xs:element name="receiver_id" />
+              <xs:element name="sender_id_qualifier" />
+              <xs:element name="sender_id" />
+              <xs:element name="segment_terminator" />
+              <xs:element name="element_separator" />
+              <xs:element name="subelement_separator" />
+              <xs:element name="communication_phone" />
+              <xs:element name="password_1" />
+              <xs:element name="password_2" />
+              <xs:element name="edi_other_1" />
+              <xs:element name="edi_other_2" />
+              <xs:element name="edi_other_3" />
+              <xs:element name="edi_other_4" />
+              <xs:element name="edi_other_5" />
+              <xs:element name="edi_test_flag" type="xs:boolean" />
+              <xs:element name="rfq_via_manual_fax_flag" type="xs:boolean" />
+              <xs:element name="rfq_via_electronic_fax_flag" type="xs:boolean" />
+              <xs:element name="rfq_via_phone_flag" type="xs:boolean" />
+              <xs:element name="rfq_via_mail_flag" type="xs:boolean" />
+              <xs:element name="rfq_via_edi_flag" type="xs:boolean" />
+              <xs:element name="auto_issue_flag" type="xs:boolean" />
+              <xs:element name="via_email_flag" type="xs:boolean" />
+              <xs:element name="rfq_via_email_flag" type="xs:boolean" />
+              <xs:element name="external_supplier" />
+              <xs:element name="po_supplier_comments">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="plant" type="xs:string" />
+                    <xs:element name="supplier" type="xs:string" />
+                    <xs:element name="comments" type="xs:string" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element maxOccurs="unbounded" name="po_supplier_contact">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="plant" type="xs:string" />
+                    <xs:element name="supplier" type="xs:string" />
+                    <xs:element name="name" type="xs:string" />
+                    <xs:element name="title" />
+                    <xs:element name="phone" />
+                    <xs:element name="fax" type="xs:unsignedInt" />
+                    <xs:element name="email_address" type="xs:string" />
+                    <xs:element name="notes" />
+                    <xs:element name="primary_flag" type="xs:boolean" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="po_supplier_addresses">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="plant" type="xs:string" />
+                    <xs:element name="supplier" type="xs:string" />
+                    <xs:element name="address_code" type="xs:unsignedByte" />
+                    <xs:element name="address" type="xs:string" />
+                    <xs:element name="mailing_address_flag" type="xs:boolean" />
+                    <xs:element name="remittance_address_flag" type="xs:boolean" />
+                    <xs:element name="shipping_address_flag" type="xs:boolean" />
+                    <xs:element name="default_mailing_address_flag" type="xs:boolean" />
+                    <xs:element name="default_remit_address_flag" type="xs:boolean" />
+                    <xs:element name="default_shipping_address_flag" type="xs:boolean" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

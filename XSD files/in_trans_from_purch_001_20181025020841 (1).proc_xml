@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<Root>
+  <in_trans_from_purch recordmode="SAVE">
+    <plant>001</plant>
+    <posted_date>2018-10-25</posted_date>
+    <posted_time>02:08:31.40</posted_time>
+    <purchasing_interface_number>PIN00069</purchasing_interface_number>
+    <transaction_type>Xorr</transaction_type>
+    <comments xml:space="preserve"> </comments>
+  </in_trans_from_purch>
+</Root>
